@@ -1,0 +1,227 @@
+#home,#about,#resume,#works,#test,#contact  {
+color:white;
+font-size: 10px; 
+margin: 20px 0px;
+padding: 10px 20px;
+
+}
+#home{
+    color:#F06000;
+}
+.icon1{
+    color:white;
+    font-size: 20px;
+    
+
+}
+.icon2 {
+    color:purple;
+    font-size: 80px;
+}
+.icon3{
+    font-size: 80px;
+}
+.contcolor{
+    color:grey;
+    
+}
+.html{
+    color: grey;
+}
+.css{
+    color:blueviolet;
+}
+.javascript{
+    color:yellow;
+}
+.react{
+    color:blue
+}
+.node{
+    color:green
+}
+.python{
+    color:blueviolet;
+}
+
+._navbar{
+    display: inline-flex;
+}
+#div1{
+    background-color: #282c34;
+    text-align: center;
+    
+    
+}
+#div2{
+    display: flex;
+    background-color: #2B2B2B ;
+}
+.img{
+    flex: 1;
+    margin-top: 20px;
+    text-align: right;
+    margin-right: 40px;
+}
+.about{
+    flex: 2;
+    text-align: start;
+    
+}
+.contact__detail{
+    display: flex;
+}
+
+.download{
+    margin: 30px 50px;
+}
+#hcolor{
+    font-family: "Reem Kufi","sans-seri";
+}
+#div3{
+    text-align: center;
+    background-color: white;
+}
+#div4{
+    text-align: center;
+    background: grey;
+    padding:30px;
+}
+
+#underline,#edu, #skills{
+    text-decoration: underline;
+  text-decoration-color: #11ABB0;
+}
+#softoo {
+    color: #11ABB0 ;
+    margin-left: 0px;
+}
+/* .softoodiv{
+    display: block;
+    align-items: left;
+    
+} */
+
+.flexsoftoo{
+    display: flex;
+}
+
+.left__side{
+    flex: 1;
+}
+.right__side{
+    flex: 2;
+    display: block;
+    text-align: start;
+    justify-content: start;
+}
+
+/* Caorusel */
+#div5{
+    background-color:#191919 ;
+    padding: 40px;
+}
+.carousel_content p{
+    color: grey;
+}
+
+.carousel_content h1{
+    color: white;
+}
+ 
+   
+
+.flexsoftoo{
+    display: flex;
+    
+}
+#underline{
+    margin-left: 0px;
+}
+#sub{
+    
+    background-color: #11ABB0;
+    font-size: 25px;
+    margin-right: 500px;
+    margin-top: 20;
+
+
+}
+#resumeb{
+    background-color: #282c34;
+    font-size: 25px;
+}
+#spacing{
+    margin-top: 100px;
+    margin-bottom: 170px;
+    color: white;
+
+}
+
+#abtme{
+    color: white;
+}
+#contactcolor{
+    color: white;
+}
+#parasoftoo,#working,#fazedu,#bachedu,#skillsedu,#feel{
+    color: grey;
+}
+
+#emailbox{
+    margin-left: 20px;
+    /* /* height: 180px;  */
+    width: 350px; 
+    background-color: 2B2B2B;
+}
+#textbox{
+    /* text-align: start; */
+    margin-left: 36px;
+    height: 40px;
+    width: 350px;
+    background-color: 2B2B2B;
+}
+
+
+#div6{
+    display: block;
+    color: red;
+}
+.flex__wrapper{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: #282c34;
+    padding: 40px 0px;
+}
+.inner__div{
+    width: 40%;
+    text-align: start;
+}
+
+.wrapper__01 , .wrapper__02{
+    display: flex;
+    margin: 20px 0px;
+}
+.text_label{
+    color: white;
+    width: 100px;
+}
+.input_text{
+    width: 350px; 
+    background-color: grey;
+}
+.para1color{
+    color: grey;
+}
+
+.linkedin{
+    margin: 10px 0;
+    color: white;
+}
+
+.linkedin span{
+    color: #11ABB0;
+}
+
